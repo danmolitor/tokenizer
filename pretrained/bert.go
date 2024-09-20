@@ -4,13 +4,13 @@ import (
 	"log"
 	"os"
 
-	"github.com/sugarme/tokenizer"
-	"github.com/sugarme/tokenizer/decoder"
-	"github.com/sugarme/tokenizer/model/wordpiece"
-	"github.com/sugarme/tokenizer/normalizer"
-	"github.com/sugarme/tokenizer/pretokenizer"
-	"github.com/sugarme/tokenizer/processor"
-	"github.com/sugarme/tokenizer/util"
+	"github.com/danmolitor/tokenizer"
+	"github.com/danmolitor/tokenizer/decoder"
+	"github.com/danmolitor/tokenizer/model/wordpiece"
+	"github.com/danmolitor/tokenizer/normalizer"
+	"github.com/danmolitor/tokenizer/pretokenizer"
+	"github.com/danmolitor/tokenizer/processor"
+	"github.com/danmolitor/tokenizer/util"
 )
 
 // BertBaseUncase loads pretrained BERT tokenizer.

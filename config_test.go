@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/sugarme/tokenizer/util"
+	"github.com/danmolitor/tokenizer/util"
 )
 
 func ExampleConfig() {

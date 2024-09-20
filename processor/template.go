@@ -6,8 +6,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/sugarme/tokenizer"
-	"github.com/sugarme/tokenizer/util"
+	"github.com/danmolitor/tokenizer"
+	"github.com/danmolitor/tokenizer/util"
 )
 
 type SequenceEnum int
